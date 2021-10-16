@@ -1,2 +1,2 @@
-# innopolis_sergeix_project_one
+# innopolis_sergeix_project
 Учебные проекты
